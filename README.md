@@ -4,7 +4,7 @@ Hola soy Nicolás 👋
 ![WhatsApp Image 2024-11-07 at 19 27 07](https://github.com/user-attachments/assets/db27b4c4-ea60-460a-8712-5720e4e8ba44)
 
 
-## 🌐 REDES Y CONTACTO:
+# 🌐 REDES Y CONTACTO:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nicolas-boniface-10b083112/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nicolas_boniface@yahoo.com.ar) 
 
 # 💻 HARD SKILLS:
