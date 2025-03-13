@@ -4,7 +4,7 @@
 
 💼  Mis Skills 
 
-![image](https://github.com/user-attachments/assets/bcb14c41-ca17-4e4c-bb92-085666aea862)
+
 ![image](https://github.com/user-attachments/assets/04d9853d-a4aa-4560-998f-97880db86832)
 ![image](https://github.com/user-attachments/assets/cc0f560d-f07f-41e3-90c0-22afc3ad40da)
 
