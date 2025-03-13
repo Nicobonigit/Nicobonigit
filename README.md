@@ -12,6 +12,9 @@
 [LinkedIn](https://www.linkedin.com/in/nicolas-boniface-10b083112/)
 
 
+## Herramientas utilizadas en el proyecto
+| Herramienta | Logo | Descripción |
+|------------|------|-------------|
 | Python | 🐍 | Lenguaje de programación principal para el procesamiento de datos. |
 | Pandas | 📊 | Librería para manipulación y análisis de datos. |
 | NumPy | 🔢 | Librería para operaciones numéricas y manejo de matrices. |
@@ -22,7 +25,6 @@
 | Jupyter Notebook | 📓 | Entorno interactivo para el desarrollo y documentación del análisis. |
 | GitHub | 🛠️ | Plataforma para el control de versiones y colaboración en el proyecto. |
 | Notion | 📝 | Herramienta de gestión de proyectos y documentación colaborativa. |
-
 
 
 
