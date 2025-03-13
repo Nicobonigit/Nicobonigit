@@ -1,5 +1,6 @@
 Hola soy Nicolás 👋
 
+![WhatsApp Image 2024-11-07 at 19 27 07](https://github.com/user-attachments/assets/9efe8213-3939-4e13-bc1a-cc1adf55740b)
 
 
 
