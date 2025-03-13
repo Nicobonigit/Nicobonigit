@@ -12,6 +12,7 @@
 
 🤝🏻  Connect with Me
 
+LinkedIn
 
 
 
