@@ -3,7 +3,22 @@
 ![WhatsApp Image 2024-11-07 at 19 27 07](https://github.com/user-attachments/assets/b0882c47-608d-48d1-8977-6dcf922dd04f)
 
 
+
+💼  Mis Skills 
+
+
+Hard Skills
+
 ![image](https://github.com/user-attachments/assets/44f2fb36-5327-44e0-b74f-31ad1c258082)
+![image](https://github.com/user-attachments/assets/bcb14c41-ca17-4e4c-bb92-085666aea862)
+![image](https://github.com/user-attachments/assets/04d9853d-a4aa-4560-998f-97880db86832)
+
+
+
+
+🤝🏻  Connect with Me
+
+
 
 
 <!--
