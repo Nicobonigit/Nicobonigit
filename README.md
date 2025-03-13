@@ -9,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/e4204f11-2ae9-4a8c-996f-24b49370c2f0)
 
 🤝🏻  Connect with Me
-[linkedin_2504923.png](https://www.linkedin.com/in/nicolas-boniface-10b083112/)
+[linkedin](https://www.linkedin.com/in/nicolas-boniface-10b083112/)
 
 
 
