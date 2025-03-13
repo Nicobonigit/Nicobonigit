@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hola soy Nicolás 👋
+
+![WhatsApp Image 2024-11-07 at 19 27 07](https://github.com/user-attachments/assets/b0882c47-608d-48d1-8977-6dcf922dd04f)
+
 
 <!--
 **Nicobonigit/Nicobonigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
