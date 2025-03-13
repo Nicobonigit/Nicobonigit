@@ -8,6 +8,9 @@
 ![image](https://github.com/user-attachments/assets/04d9853d-a4aa-4560-998f-97880db86832)
 ![image](https://github.com/user-attachments/assets/e4204f11-2ae9-4a8c-996f-24b49370c2f0)
 
+![image](https://github.com/user-attachments/assets/9b765732-7107-4691-b507-6a8feb15a684)
+
+
 🤝🏻  Connect with Me
 [linkedin](https://www.linkedin.com/in/nicolas-boniface-10b083112/)
 
