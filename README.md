@@ -12,7 +12,7 @@
 
 🤝🏻  Connect with Me
 
-LinkedIn
+[LinkedIn]((https://www.linkedin.com/in/nicolas-boniface-10b083112/))
 
 
 
