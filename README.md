@@ -11,7 +11,7 @@
 
 
 🤝🏻  Connect with Me
-![image](https://github.com/user-attachments/assets/452a5214-0e51-4bfe-be0d-fbab4787f152)
+![image](https://www.linkedin.com/in/nicolas-boniface-10b083112/)
 
 [LinkedIn](https://www.linkedin.com/in/nicolas-boniface-10b083112/)
 
